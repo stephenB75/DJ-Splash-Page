@@ -1,0 +1,131 @@
+  
+/* This is the landing page CSS*/ 
+
+.background {
+      background-image: url("../IMG/DJbackgrn.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center center;
+}
+
+.name {
+  text-align: center;
+  color: white;
+  padding-top: 250px;
+  font-size: 30px;
+  font-family: 'Special Elite', cursive;
+}
+
+
+.color{
+  color: white;
+}
+
+nav ul {
+  list-style: none;
+  text-align: right;
+  padding: 25px;
+  font-family: 'Special Elite', cursive;
+  padding-top: 70px;
+}
+
+li {
+  display: inline-block;
+}
+
+.sub {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20px;
+  font-family: 'Special Elite', cursive;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+}
+
+
+/* Landing Page CSS ends*/
+
+
+/* Tour Page CSS */
+
+
+.tourdates {
+  color: white;
+  padding-top: 220px;
+}
+
+.months {
+  padding: 20px;
+  margin: 5px;
+  margin-left: 50px;
+}
+
+p {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: gray;
+  font-family: 'Special Elite', cursive;
+  height: 400px;
+  padding: 0;
+  margin: 0;
+
+}
+.cal {
+  font-style: bold;
+  font-size: 30px;
+}
+
+.socialmedia {
+  text-align: center;
+  margin-top: 350px;
+}
+
+
+.fa {
+  margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
